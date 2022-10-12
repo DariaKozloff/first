@@ -1,1 +1,4 @@
 
+String[] array = new String[4];
+ array[0] = 1;
+System.out.println(array[0]);
